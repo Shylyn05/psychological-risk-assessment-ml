@@ -177,7 +177,7 @@ student-psych-assessment/
 
 ### 1. Clone Repository & Install Dependencies
 ```bash
-git clone https://github.com/your-username/psychological-risk-assessment-ml.git
+git clone https://github.com/Shylyn05/psychological-risk-assessment-ml.git
 cd psychological-risk-assessment-ml
 pip install -r requirements.txt
 ```
