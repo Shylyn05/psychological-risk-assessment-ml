@@ -1,0 +1,11 @@
+Clean_Feature,Importance,Description
+Workload Stress,0.08464137252484606,Numeric index representing stress related to curriculum requirements and course loads.
+Grade Pressure,0.06261943969292344,"Survey indicator of academic, lifestyle, or psychological wellbeing."
+Exam Anxiety,0.053833111539399965,Stress level specific to examinations and test-taking.
+Support Emotional,0.05084722985716754,"Survey indicator of academic, lifestyle, or psychological wellbeing."
+Confidence,0.04553018053678556,"Survey indicator of academic, lifestyle, or psychological wellbeing."
+Duration,0.04195171128743042,Mean daily sleeping duration in hours.
+Time Daily,0.03694642169977747,Total non-academic screen use in hours.
+Communication,0.0368300501867518,"Survey indicator of academic, lifestyle, or psychological wellbeing."
+Contact Satisfaction,0.03557466729296373,"Survey indicator of academic, lifestyle, or psychological wellbeing."
+GPA,0.03494878108416325,Academic cumulative Grade Point Average.

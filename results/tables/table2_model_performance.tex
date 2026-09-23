@@ -1,0 +1,17 @@
+% TABLE II: COMPARATIVE PERFORMANCE METRICS ON TEST PARTITION
+\begin{table}[htbp]
+\centering
+\caption{\uppercase{Classification Performance Comparison on Unseen Test Set}}
+\label{tab:model_comparison}
+\begin{tabular}{lccccc}
+\hline
+\textbf{Classifier Model} & \textbf{Accuracy} & \textbf{Precision} & \textbf{Recall} & \textbf{F1-Score} & \textbf{ROC-AUC} \\
+\hline
+\textbf{Logistic Regression} & \textbf{0.7000} & \textbf{0.7181} & \textbf{0.6834} & \textbf{0.6968} & \textbf{0.8029} \\
+Decision Tree & 0.4875 & 0.4922 & 0.4293 & 0.4449 & 0.6810 \\
+Random Forest & 0.6125 & 0.6352 & 0.5587 & 0.5775 & 0.7578 \\
+Support Vector Machine (SVM) & 0.6750 & 0.7023 & 0.6396 & 0.6598 & 0.7993 \\
+XGBoost & 0.6125 & 0.6294 & 0.5975 & 0.6065 & 0.7651 \\
+\hline
+\end{tabular}
+\end{table}

@@ -1,0 +1,5 @@
+Model,Accuracy,Precision (Macro),Recall (Macro),F1-Score (Macro),ROC-AUC (Macro)
+Random Forest,63.75%,65.08%,53.72%,56.53%,85.66%
+XGBoost,65.00%,61.10%,55.75%,56.29%,85.45%
+CatBoost,65.00%,64.40%,52.35%,53.08%,87.42%
+Proposed Framework,66.25%,64.14%,56.67%,57.98%,86.64%

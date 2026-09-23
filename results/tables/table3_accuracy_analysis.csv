@@ -1,0 +1,5 @@
+Model,Accuracy
+Random Forest,63.75%
+XGBoost,65.00%
+CatBoost,65.00%
+Proposed Framework,66.25%
